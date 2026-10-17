@@ -1,4 +1,5 @@
-Transient Shaper For A violent transient manipulation... up to 48db of gain or atenuation for the detected transient material
+Transient Shaper For A violent transient manipulation... up to 48db of gain or atenuation for the detected transient material.
+Great For trap, Hiphop, Techno, Hard Dance and Experimental Impact sounds design.
 
 made with Juce and C++.  
 </br>
